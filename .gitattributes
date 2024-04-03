@@ -1,1 +1,1 @@
-*.js linguist-language=csharp
+*.cs linguist-language=csharp
